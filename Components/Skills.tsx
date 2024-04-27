@@ -25,6 +25,8 @@ const Skills = () => {
             descr="I volunteer with this non-profit organization as the Media Chair of the National Board. The technical skills I have used were to develop and maintain their website, with future goals of implementing an e-commerce platform. Other impersonal skills, such as leadership and strong communication, are developed through directing media projects for my team. Our social media is constantly updated utilizing effective marketing strategies for various events and campaigns."
           />
         </div>
+      </div>
+      <div className="w-[80%] mx-auto pt-[1rem] grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-[2rem] items-center">
         <SkillsLanguage skill="HTML" level="w-[90%]" />
         <SkillsLanguage skill="Tailwind CSS" level="w-[70%]" />
         <SkillsLanguage skill="JavaScript" level="w-[75%]" />
@@ -34,12 +36,12 @@ const Skills = () => {
         <SkillsLanguage skill="SpringBoot" level="w-[70%]" />
         <SkillsLanguage skill="MySQL" level="w-[90%]" />
         <SkillsLanguage skill="Python" level="w-[80%]" />
+        <SkillsLanguage skill="Java" level="w-[90%]" />
         <SkillsLanguage skill="C/C++" level="w-[90%]" />
         <SkillsLanguage skill="C#" level="w-[70%]" />
         <SkillsLanguage skill="Terraform" level="w-[65%]" />
         <SkillsLanguage skill="Docker" level="w-[60%]" />
         <SkillsLanguage skill="GitHub" level="w-[95%]" />
-        <SkillsLanguage skill="VS Code" level="w-[95%]" />
         <SkillsLanguage skill="Eclipse" level="w-[70%]" />
       </div>
     </div>
