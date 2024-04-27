@@ -39,9 +39,10 @@ const Header = () => {
           className="w-[500px] hidden bg-[#292929] h-[500px] relative lg:flex items-center rounded-full shadow-darker"
         >
           <Image
-            src="/assets/profile.jpg"
+            src="/assets/profile1.jpg"
             alt="user"
             layout="fill"
+            objectPosition="top"
             className="object-cover rounded-full"
           />
         </div>
