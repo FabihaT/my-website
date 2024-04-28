@@ -94,7 +94,7 @@ const Projects = () => {
 
   return (
     <div id="projects" className="bg-[#292929] pt-3 md:pt-10 pb-4">
-      <h1 className="text-center text-3xl md:text-4xl font-bold mb-10 text-white">
+      <h1 className="heading mb-10">
         My <span className="text-[#D4C295]">Projects</span>
       </h1>
       <div className="mx-auto px-4 max-w-7xl">
